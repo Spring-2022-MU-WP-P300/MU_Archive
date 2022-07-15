@@ -1,0 +1,18 @@
+.btn {
+    border: none;
+    background: transparent;
+    padding: 6px 16px;
+    font-size: 1.1rem;
+    color: var(--black);
+    background: rgb(227, 227, 245);
+    border-radius: 12px;
+    transition: 0.3s all ease-out;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    color: var(--black);
+    background: white;
+    transition: 0.3s all ease-out;
+    cursor: pointer;
+  }
